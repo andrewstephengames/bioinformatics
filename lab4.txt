@@ -1,0 +1,3 @@
+Take 20000 random samples (of 100-150 nucleotides) from genome file.
+Use the samples to recreate the original genome by comparing similarity.
+Don't take into consideration areas with less than 10 nucleotides in common.
